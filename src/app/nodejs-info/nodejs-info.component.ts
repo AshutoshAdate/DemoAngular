@@ -7,14 +7,15 @@ import { ReadDataService } from '../read-data.service';
   styleUrls: ['./nodejs-info.component.css']
 })
 export class NodejsInfoComponent implements OnInit {
-  readData:any;
-  date=new Date();
-  constructor(private fetchData:ReadDataService) { };
+  readData: any;
+  date = new Date();
+  constructor(private fetchData: ReadDataService) { };
 
 
   ngOnInit(): void {
-    this.fetchData.getData().subscribe(data=>{
-      this.readData = data.filter((e:any)=>{return e.language === 'Node JS'})[0];
+    // get nodejs information from API call and stored in readData
+    this.fetchData.getData().subscribe(data => {
+      this.readData = data.filter((e: any) => { return e.language === 'Node JS' })[0];
     })
   }
 
