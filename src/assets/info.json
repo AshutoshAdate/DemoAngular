@@ -2,7 +2,7 @@
     {
         "language": "Angular",
         "image": "angular2.png",
-        "description": "Angular is used as the frontend of the MEAN stack, consisting of MongoDB database, Express.js web application server framework, Angular itself (or AngularJS), and Node.js server runtime e"
+        "description": "Angular is a platform and framework for building single-page client applications using HTML and TypeScript. Angular is written in TypeScript. It implements core and optional functionality as a set of TypeScript libraries that you import into your applications."
         
     },
     {
@@ -13,6 +13,6 @@
     {
         "language": "javascript",
         "image": "javascript.png",
-        "description": "JavaScript , often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS.[11] Over 97% of websites use JavaScript on the client side for web page behavior,[12] often incorporating third-party libraries.[13] All major web browsers have a dedicated JavaScript engine to execute the code on users' devices."
+        "description": "JavaScript , often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS.[11] Over 97% of websites use JavaScript on the client side for web page behavior,[12] often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices."
     }
 ]
