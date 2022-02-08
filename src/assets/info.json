@@ -1,0 +1,18 @@
+[
+    {
+        "language": "Angular",
+        "image": "angular2.png",
+        "description": "Angular is used as the frontend of the MEAN stack, consisting of MongoDB database, Express.js web application server framework, Angular itself (or AngularJS), and Node.js server runtime e"
+        
+    },
+    {
+        "language": "Node JS",
+        "image": "node.jpg",
+        "description": "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a JavaScript everywhere paradigm"
+    },
+    {
+        "language": "javascript",
+        "image": "javascript.png",
+        "description": "JavaScript , often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS.[11] Over 97% of websites use JavaScript on the client side for web page behavior,[12] often incorporating third-party libraries.[13] All major web browsers have a dedicated JavaScript engine to execute the code on users' devices."
+    }
+]

@@ -1,0 +1,12 @@
+<header>
+    <div class="topnav">
+        <a (click)="prew()">PREVIOUS</a>
+        <a (click)="next()" class="a2">NEXT</a>
+    </div>
+
+</header>
+
+
+<router-outlet></router-outlet>
+
+<footer style="font-size: small;">{{date|date:'mediumDate'}} <br> &COPY; Adate 1998</footer>

@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: rgb(59, 59, 59);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#img-1{
+    margin: 0 300px auto;
+    align-self: center;
+    height: 220px;
+    width: 500px;
+}
+
+#img-1:hover{
+    box-shadow: 0 0 5px rgb(59, 59, 59);
+    /* border: 5px solid gray; */
+}
+#div-2{
+    margin: 50px 100px auto;
+    background: whitesmoke;
+    font-family:'Courier New', Courier, monospace;
+    font-size: large;
+}
